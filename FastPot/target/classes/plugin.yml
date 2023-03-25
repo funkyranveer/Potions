@@ -1,0 +1,6 @@
+name: FastPot
+version: '1.0-SNAPSHOT'
+main: me.funky.fastpot.FastPot
+author: funkyranveer
+commands:
+  fastpot:

@@ -1,0 +1,6 @@
+name: FastPot
+version: '${project.version}'
+main: me.funky.fastpot.FastPot
+author: funkyranveer
+commands:
+  fastpot:

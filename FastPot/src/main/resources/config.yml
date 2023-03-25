@@ -1,0 +1,5 @@
+permission: "fastpot.command"
+fastpot: 1.0
+
+# The Default Value of "FastPot" is '1.0' , (Higher Speed when the value is pushed forward such as: 1.0 -> 2.0)
+
