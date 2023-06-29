@@ -1,2 +1,2 @@
 # Potions
-Fastpot, framework or whatever, Nor will I just sit around pretending this is my work. And the reason this is under my name is because I myself neither know who write up this code.
+Fastpot, framework etc. This also isn't mine but it's only under my name cause I myself don't know who made this.
